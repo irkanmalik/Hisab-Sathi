@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main Ledger Book base in white and emerald -->
+    <!-- Book Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,26 H74 C77.3,26 80,28.7 80,32 V76 C80,79.3 77.3,82 74,82 H28 C25.8,82 24,80.2 24,78 V30 C24,27.8 25.8,26 28,26 Z" />
+    <!-- Book Spine / Left border in Indian Green -->
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M24,26 H33 V82 H24 C25.8,82 24,80.2 24,78 V30 C24,27.8 24,26 24,26 Z" />
+    <!-- Saffron / Gold Ribbon bookmark hanging at top right -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M66,24 H72 V40 L69,37 L66,40 Z" />
+    <!-- Center Indian Rupee Symbol (₹) in Deep Blue #0D47A1 -->
+    <!-- Horizontal Top Bar -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M44,40 H64 V43.5 H44 Z" />
+    <!-- Horizontal Second Bar -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M44,47 H62 V50.5 H44 Z" />
+    <!-- Rupee Curve and Diagonal Leg -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M47,40 H58 C62,40 64,42.5 64,46 C64,49.5 61.5,52 57.5,52.5 L65,66 H59.5 L52.5,53.5 H47 V66 H43 V40 Z M47,43.5 V50 H57 C59,50 60.5,48.5 60.5,46.5 C60.5,44.5 59,43.5 57,43.5 Z" />
+    <!-- Smart Verification Checkmark in Saffron / Emerald -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M59,62 L63,66 L73,56 L75,58 L63,70 L57,64 Z" />
+</vector>
+

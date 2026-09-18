@@ -1,0 +1,6 @@
+{
+  "name": "HisabSaathi",
+  "description": "Smart Hisab, Jhadi ledger, staff attendance, payment links and WhatsApp customer billing for Indian shopkeepers and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
